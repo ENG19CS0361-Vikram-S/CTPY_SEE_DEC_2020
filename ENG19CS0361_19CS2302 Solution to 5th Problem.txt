@@ -19,7 +19,7 @@ if k in data1:
 
 5 (b)
 
-The error fixed in 5(a) is: 
+The error fixed as per in 5(a) is: 
 
 def uniqueUpdate(data1, data2):
     # Initially empty dictionary
