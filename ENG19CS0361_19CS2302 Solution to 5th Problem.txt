@@ -48,6 +48,24 @@ def uniqueUpdate(data1, data2):
 
 
 5 (c) The test cases are:
+Test case - 1
+4
+(1 2) 
+(3 3) 
+(3 8) 
+(4 9)
 
-(1,4) (2,7) (3,9) (4,6)
+2
+(3 3)
+(4 4)
 
+Test Case -2:
+4
+(1 2)
+(2 2)
+(3 3)
+(4 19)
+
+2
+(3 3)
+(4 19)
